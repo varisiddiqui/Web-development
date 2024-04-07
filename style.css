@@ -29,6 +29,7 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     overflow: hidden;
     transition: 0.5s;
+    margin: 0px 10px 0px 10px;
     
 }
 .box .icon{
